@@ -1,4 +1,0 @@
-Contact: mailto:security@milanet.co.uk
-Expires: 2036-12-31T00:00:00.000Z
-Preferred-Languages: en
-Canonical: https://milanet.co.uk/.well-known/security.txt
